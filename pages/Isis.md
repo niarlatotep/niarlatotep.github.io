@@ -1,0 +1,1 @@
+- Tracer son symbole en l'invoquant permet de créer une protection

@@ -1,0 +1,13 @@
+- Pyramide sans nom et sans histoire
+- 6eme dynastie, pas d'histoire ni de particularités
+- A moitié effondrée
+-
+- Érigé par [[Snefrou]]
+- Quelques légendes d'allées et venues mais comme pour toutes les pyramides
+- Son état de délabrement est très avancé, toutes les entrées sont ensevelis sous les décombres
+	- Personne ne serait rentré dedant depuis plusieurs années
+	- Prendrai trop de temps de dégager les entrées
+	- Valeur historique trop faible pour prendre de tels risques
+- Zone entière délabrée, plus petites tombes ont été ouvertes autour
+	- Selon le guide, rien à y voir
+	-

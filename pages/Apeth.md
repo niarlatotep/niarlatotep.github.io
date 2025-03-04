@@ -1,0 +1,2 @@
+- Serpent maléfique qui empêche le soleil de se lever chaque matin
+- Avait des rites donc probablement un culte

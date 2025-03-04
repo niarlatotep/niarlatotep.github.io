@@ -1,0 +1,1 @@
+- Salle secrète de la [[pyramide inclinée]] (sanctuaire du [[Pharaon Noir]] )

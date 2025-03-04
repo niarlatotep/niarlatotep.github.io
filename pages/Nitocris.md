@@ -1,0 +1,1 @@
+- Une reine de la 6eme dynastie qui se serait alliée à un culte du pharaon noir pour obtenir des pouvoirs

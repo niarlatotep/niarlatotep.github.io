@@ -1,0 +1,1 @@
+- A succèdé au [[Pharaon Noir]]

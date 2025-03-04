@@ -1,0 +1,371 @@
+{:blocks (
+{:block/created-at 1741035559298
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [536 432]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "5e302b30-f872-11ef-9859-01119aeb2217"
+:fontWeight 400
+:noFill false
+:point [32 224]
+:fontSize 20
+:parentId "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:nonce 1741035556239
+:italic false}}
+:block/updated-at 1741035559298} 
+{:block/created-at 1741035564435
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [64 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "6266d000-f872-11ef-9859-01119aeb2217"
+:fontWeight 400
+:noFill false
+:point [112 312]
+:fontSize 20
+:parentId "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:nonce 1741035563290
+:italic false}}
+:block/updated-at 1741035564435} 
+{:block/created-at 1741035573547
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [80 72]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "668c36c0-f872-11ef-9859-01119aeb2217"
+:fontWeight 400
+:noFill false
+:point [104 392]
+:fontSize 20
+:parentId "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:nonce 1741035570250
+:italic false}}
+:block/updated-at 1741035573547} 
+{:block/created-at 1741035575386
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [72 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "68ffa7c0-f872-11ef-9859-01119aeb2217"
+:fontWeight 400
+:noFill false
+:point [120 504]
+:fontSize 20
+:parentId "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:nonce 1741035574346
+:italic false}}
+:block/updated-at 1741035575386} 
+{:block/created-at 1741035581315
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [80 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "6c974d70-f872-11ef-9859-01119aeb2217"
+:fontWeight 400
+:noFill false
+:point [416 320]
+:fontSize 20
+:parentId "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:nonce 1741035580380
+:italic false}}
+:block/updated-at 1741035581315} 
+{:block/created-at 1741035585538
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [72 72]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "6e9da4c0-f872-11ef-9859-01119aeb2217"
+:fontWeight 400
+:noFill false
+:point [432 424]
+:fontSize 20
+:parentId "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:nonce 1741035583794
+:italic false}}
+:block/updated-at 1741035585538} 
+{:block/created-at 1741035588683
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [88 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "70eb3e40-f872-11ef-9859-01119aeb2217"
+:fontWeight 400
+:noFill false
+:point [424 520]
+:fontSize 20
+:parentId "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:nonce 1741035587645
+:italic false}}
+:block/updated-at 1741035588683} 
+{:block/created-at 1741035594245
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [112 80]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "73429bc0-f872-11ef-9859-01119aeb2217"
+:fontWeight 400
+:noFill false
+:point [248 288]
+:fontSize 20
+:parentId "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:nonce 1741035591597
+:italic false}}
+:block/updated-at 1741035594245} 
+{:block/created-at 1741035779115
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 8
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "polygon"
+:isFlippedY false
+:size [40 40]
+:strokeType "line"
+:ratio 1
+:strokeWidth 2
+:opacity 1
+:label ""
+:sides 3
+:id "7bbc1a60-f872-11ef-9859-01119aeb2217"
+:fontWeight 400
+:noFill false
+:point [264 504]
+:fontSize 20
+:parentId "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:nonce 1741035605912
+:italic false}}
+:block/updated-at 1741035779115} 
+{:block/created-at 1741035614914
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 9
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "polygon"
+:isFlippedY false
+:size [64 40]
+:strokeType "line"
+:ratio 1
+:strokeWidth 2
+:opacity 1
+:label ""
+:sides 3
+:id "7fb233c0-f872-11ef-9859-01119aeb2217"
+:fontWeight 400
+:noFill false
+:point [360 568]
+:fontSize 20
+:parentId "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:nonce 1741035612432
+:italic false}}
+:block/updated-at 1741035614914} 
+{:block/created-at 1741035616994
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "polygon"
+:isFlippedY false
+:size [40 40]
+:strokeType "line"
+:ratio 1
+:strokeWidth 2
+:opacity 1
+:label ""
+:sides 3
+:id "81de6290-f872-11ef-9859-01119aeb2217"
+:fontWeight 400
+:noFill false
+:point [304 568]
+:fontSize 20
+:parentId "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:nonce 1741035616078
+:italic false}}
+:block/updated-at 1741035616994} 
+{:block/created-at 1741035620286
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "polygon"
+:isFlippedY false
+:size [40 32]
+:strokeType "line"
+:ratio 1
+:strokeWidth 2
+:opacity 1
+:label ""
+:sides 3
+:id "83f69430-f872-11ef-9859-01119aeb2217"
+:fontWeight 400
+:noFill false
+:point [240 576]
+:fontSize 20
+:parentId "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:nonce 1741035619588
+:italic false}}
+:block/updated-at 1741035620286} 
+{:block/created-at 1741035624835
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 12
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "polygon"
+:isFlippedY false
+:size [48 24]
+:strokeType "line"
+:ratio 1
+:strokeWidth 2
+:opacity 1
+:label ""
+:sides 3
+:id "8601f490-f872-11ef-9859-01119aeb2217"
+:fontWeight 400
+:noFill false
+:point [112 624]
+:fontSize 20
+:parentId "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:nonce 1741035623045
+:italic false}}
+:block/updated-at 1741035624835} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [64 56]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "e53c9e10-f872-11ef-9859-01119aeb2217"
+:fontWeight 400
+:noFill false
+:point [280 464]
+:fontSize 20
+:parentId "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:nonce 1741035782791
+:italic false}}
+:block/updated-at 1741035783351})
+:pages (
+{:block/uuid #uuid "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:name "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("5e302b30-f872-11ef-9859-01119aeb2217" "6266d000-f872-11ef-9859-01119aeb2217" "668c36c0-f872-11ef-9859-01119aeb2217" "68ffa7c0-f872-11ef-9859-01119aeb2217" "6c974d70-f872-11ef-9859-01119aeb2217" "6e9da4c0-f872-11ef-9859-01119aeb2217" "70eb3e40-f872-11ef-9859-01119aeb2217" "73429bc0-f872-11ef-9859-01119aeb2217" "7bbc1a60-f872-11ef-9859-01119aeb2217" "7fb233c0-f872-11ef-9859-01119aeb2217" "81de6290-f872-11ef-9859-01119aeb2217" "83f69430-f872-11ef-9859-01119aeb2217" "8601f490-f872-11ef-9859-01119aeb2217" "e53c9e10-f872-11ef-9859-01119aeb2217")}}
+:block/updated-at 1741035783351
+:block/created-at 1737380203360
+:block/type "whiteboard"
+:block/name "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"
+:block/original-name "678e516b-56b0-4d4d-aa2a-2532faf0f0a7"})}

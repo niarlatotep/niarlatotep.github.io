@@ -1,0 +1,45 @@
+- Clôturé et gardes Egyptiens autour pour prévenir des pilleurs de tombes
+-
+- Moyennant payement nous rentrons avec le garde par l'entrée nord
+	- Couloir déscent jusqu'à une salle plutôt vide
+	- Peintures un peu ternes, chambre funéraire attribués à [[Snefrou]]
+	- Colonnes d’albâtres
+		- Pas très peintes, sert de soutient, contient une porte
+		- Derrière la porte, une vingtaine de marches qui mène sur une rampe inclinée, ça tourne plusieurs fois en montant
+		- On doit être proche du sommet de la pyramide
+		- On passe une arche un peu asymétrique et arrivons dans une pièce carré
+			- On reconnais ce qui était mentionné dans [[La vie d'un Dieu]] qui parlait d'un sanctuaire du [[Pharaon Noir]]. Nous somme dans ce sanctuaire. Six pilliers d'un mètre cinquante de haut
+			- Dans chacun des pilliers une gemme d'une trentaire de cm de diametre
+				- Lorsque l'on approche d'une
+			- Face à la porte, un trone noir incrusté de pierres précieuses
+			- Derrière le trône, des bas reliefs de hiéroglyphes et des symboles occultes
+				- Lorsqu'on approche un briquer, une gemme s'enflamme d'une flamme sans chaleur
+			- A gauche, deux autres bas reliefs qui représentent une carte du ciel
+				- Dur sans étude de déterminer la raison de ce ciels dessinné
+			- Sur le mur de droite, une carte de l'eurasie, de l'afrique et de l'Australie, très bien dessinnée
+				- Trois rubis polis sertis dans le bas relief, un en Australie, un en mer de Chine et un en Afrique de l'est
+				- Bande plus sombre qui fait un arc de cercle au dessus de l'océan indien
+			- [[Photos]] prisent de la salle
+			-
+			- Trois flammes sont allumés, cela allume les suivantes
+				- Mélodie retenti
+				- Odeur de mort et de putréfaction envahi la salle
+				- Grande figure humanoïde sur le trône se lève, c'est le [[Pharaon Noir]]
+				- Des voix dans nos têtes
+					- "Regarder comme vos efforts sont vaincs"
+					- "Je ne peux que vous conseiller de rentrer chez vous"
+					- "Regarder ce qu'il est advenu de vos prédecesseursé
+						- Vision d'un camps d'expédition avec des porteurs noirs. D'un coup, des cris inhumains retentisses, le ciel se trouble avant que des créatures surnaturelles fondent sur les porteurs. Des humains déformés et une clique démoniaque surviennent de toute part pour dévorer les membres de l'expédition et les porteurs
+							- Sous l'horreur, nous perdons deux membre de notre équipe, seule Laura résiste avec moi
+					- Je marche désespérément avec dague d'argent et rapière à la main vers le Pharaon qui se rit de moi
+					- Deux créatures se matérialises dans la salle
+					- [[Pharaon Noir]] : Un sceptre dans la main et un [[anneau de royauté]] orné de gemme
+						- Il ouvre un portail vers l’Égypte antique et nous propose de régner dessus
+						- Se moquant de nous, le [[Pharaon Noir]] nous laisse repartir à la réalité
+						-
+				-
+				-
+			-
+			-
+			-
+			-

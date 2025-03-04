@@ -1,0 +1,16 @@
+- Bois depuis longtemps
+- A beaucoup étudier la mythologie égyptienne
+-
+- Des chats viennent le voir en boucle
+	- Depuis un peu plus d'une semaine
+		- Dans un temple perdu a trouvé des papyrus d'antiques rites égyptien
+		- Ecrit son livre pour traduire ces parchemins
+	- LES CHATS SUIVENT LES PARCHEMINS ? Ou il a fait un rite
+	- Rites sur [[Bast]] et [[Apeth]]
+-
+-
+- La momie de [[Nitocris]] d'après les papyrus est celle qui a disparue
+	- [[Clives]] a tout fait pour cacher/Etouffer l'affaire
+-
+- SON OUVRAGE
+	- Recis sur les rites d’Égypte ancienne avec les rites traduits

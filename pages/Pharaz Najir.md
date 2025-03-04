@@ -1,0 +1,5 @@
+- Boutique d'antiquité, rue des chacals
+- Sa boutique d'antiquité a brullé "Un démon l'a enflammé il y a 6 ans"
+	- Suite à ça, il s'est installé dans une autre rue et ne veux plus entendre parler de cette histoire
+- A vendu les objets volés à [[Chakti Homar]] à [[Auguste Loret]] pour l'[[Expédition carlyle]]
+	- ((67c5fe5c-20a6-4f9c-a1de-712de3efd2da))
