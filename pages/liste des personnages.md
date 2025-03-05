@@ -1,5 +1,3 @@
-public:: true
-
 - Expédition Carlyle
 	- [[Royston Whittington]]
 	- [[Sir Aubrey Penhew]]
