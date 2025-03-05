@@ -701,7 +701,7 @@ light-coral */
     .custom-query
     .blocks-container
     > div:nth-child(odd) {
-    background: #29763e;
+    background: #295276;
   }
 
   .dark-theme
@@ -734,7 +734,7 @@ light-coral */
   .custom-query
   .lazy-visibility:nth-child(odd)
   .ls-block {
-  background: #2c7629;
+  background: #295276;
 }
 
 .dark-theme
