@@ -2,8 +2,7 @@
 - Arrivée Egypte
 - [[Feb 26rd, 1925]]
 -
-- [[Mar 1st, 2025]]
-  id:: 67c786e3-12a6-48f2-9451-c7d27ee6f4ba
+- [[Mar 1st, 1925]]
 - [[Mar 2nd, 1925]]
 - [[Mar 3rd, 1925]]
 - [[Mar 4rd, 1925]]
