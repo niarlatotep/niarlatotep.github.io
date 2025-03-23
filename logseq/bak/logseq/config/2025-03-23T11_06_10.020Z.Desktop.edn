@@ -419,6 +419,6 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :feature/enable-journals? true
+ :feature/enable-journals? false
  :default-home {:page "liste des personnages"}
  :publishing/all-pages-public? true}
