@@ -420,6 +420,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-journals? true
- :journal/enabled? false
  :default-home {:page "liste des personnages"}
  :publishing/all-pages-public? true}
