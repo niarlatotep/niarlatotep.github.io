@@ -1,4 +1,6 @@
-- Récupéré à la [[Fondation Penhew]]
+- Récupérés
+-
+- Récupérés à la [[Fondation Penhew]]
 	- Petit mémoire sur la traduction de poterie
 	- Livre de Diane (Autheur et traducteur inconnus)
 		- Convoquer l'enfant des bois
@@ -12,4 +14,6 @@
 		- Rituels divers nécessitants des choses étranges ou horrible. Sacrifices animaux
 		-
 - Liber Ivonis est le même livre que le livre d'Ivan, c'est une traduction plus récente
+	-
+-
 	-
