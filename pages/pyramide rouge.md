@@ -2,5 +2,6 @@
 - Proche de la [[pyramide inclinée]]
 - Egalement attribuée à [[Snefrou]]
 - Construite avec du calcaire rosé
+- Le guide nous montre l'entrée mais s'oppose à notre entrée
 -
 -
