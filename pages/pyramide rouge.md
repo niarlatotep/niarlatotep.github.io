@@ -1,0 +1,4 @@
+- [[Mar 5th, 1925]] On va la fouiller avec un guide
+- Proche de la [[pyramide inclinée]]
+- Egalement attribuée à [[Snefrou]]
+- Construite avec
