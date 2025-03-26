@@ -1,4 +1,5 @@
-- Récupérés
+- Récupérés à NY chez Carlyle
+	-
 -
 - Récupérés à la [[Fondation Penhew]]
 	- Petit mémoire sur la traduction de poterie
