@@ -1,8 +1,9 @@
 - Récupéré à la [[Fondation Penhew]]
 	- Petit mémoire sur la traduction de poterie
 	- Livre de Diane (Autheur et traducteur inconnus)
-		- Convoquer l'esprit des bois
-		- Vision du rêve
+		- Convoquer l'enfant des bois
+		  Convoquer l'esprit du vent
+		  Vision des rêves
 	- Liber Ivonis (en Latin, traduction du 9eme siecle d'un texte écrit par un ancien culte)
 		- On trouve dedant
 			- Contacter Kthulhuth, Zothaka
