@@ -7,5 +7,6 @@
 -
 -
 - Pages importantes
-	- Liste des personnages
+	- [[liste des personnages]] - tout les PNJ classés par pays
+	- [[DATES]] -
 	-
