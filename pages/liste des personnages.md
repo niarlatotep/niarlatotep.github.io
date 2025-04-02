@@ -33,6 +33,7 @@
 	-  [[Snefrou]]
 	-  [[Nitocris]]
 	-  [[Nephrentis]]
+	-  [[Nephren-Ka]]
 	- [[Ali Kafur]]
 	-  [[Stakse]]
 	- [[Janwillen Vanheuvelen]]
