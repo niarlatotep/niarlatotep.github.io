@@ -12,5 +12,4 @@
 	- Pages qui contiennent nos découvertes sur le culte
 		- [[Expédition carlyle]]
 		- [[la Fraternité]]
-		-
 	-
