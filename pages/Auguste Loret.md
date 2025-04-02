@@ -1,1 +1,2 @@
 - TODO Lui demander comment ils sont rentrés dans la pyramide sans nom de la sixième dynastie (voir [[PSNSH]] )
+- A travaillé avec [[Jackson Elias
