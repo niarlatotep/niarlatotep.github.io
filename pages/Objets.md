@@ -12,15 +12,19 @@
 			- Donnée à [[Ali Kafur]]
 	- Grosse caisse : [[Ho Fong Import]] addressé à [[Shangai]] "A l'attention de l'honnorable [[Ho Fong]]"
 	  id:: 67c786e3-b7e7-4cfc-b7f9-dbebd922ce1c
+	  collapsed:: true
 		- Statue de bronze un peu occidée , femme très boursouflée et disproportionnée
-	- On a également prit
+	- On a également prit divers objets
 	  id:: 67c786e3-91cb-453a-9ef8-6112f6093d75
+	  collapsed:: true
 		- Poudres, pierres, dague d'argent
 		- faux passeports
 			- Laissés à la police anglaise
 		- Urne funéraire
 			- Probablement pas des cendres, poudre noir syntillante
 			- Laissé à [[Ali Kafur]]
+-
+-
 - Volés par [[Pharaz Najir]] à [[Chakti Homar]] revendu à [[Auguste Loret]]
   id:: 67c5fe5c-20a6-4f9c-a1de-712de3efd2da
 	- Un papyrus
