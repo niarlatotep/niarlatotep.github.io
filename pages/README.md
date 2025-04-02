@@ -8,5 +8,6 @@
 -
 - Pages importantes
 	- [[liste des personnages]] - tout les PNJ classés par pays
-	- [[DATES]] -
+	- [[DATES]] - Journal de nos actions par jours
+	-
 	-
