@@ -1,4 +1,6 @@
 - [[Feb 22rd, 1925]]
+- [[Feb 23rd, 1925]]
+-
 - Arrivée Egypte
 - [[Feb 26rd, 1925]]
 -
