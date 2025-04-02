@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Information" "Livres" "DATES" "liste des personnages"]
+ :favorites ["Objets" "Information" "Livres" "DATES" "liste des personnages"]
 
  ;; Set flashcards interval.
  ;; Expected value:
