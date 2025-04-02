@@ -1,4 +1,4 @@
-- Fondation Penhew (Londre, )
+- Fondation Penhew (Londre, [[Feb 22nd, 1925]] )
 	-
 - Volés par [[Pharaz Najir]] à [[Chakti Homar]] revendu à [[Auguste Loret]]
   id:: 67c5fe5c-20a6-4f9c-a1de-712de3efd2da
