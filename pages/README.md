@@ -6,8 +6,10 @@
 	- Si vous voulez participer à la rédaction je peut ouvrir le git :)
 -
 -
-- Pages importantes
+- Pages importantes pour se retrouver dans l'aventure
 	- [[liste des personnages]] - tout les PNJ classés par pays
 	- [[DATES]] - Journal de nos actions par jours
-	-
+	- Pages qui contiennent nos découvertes sur le culte
+		- [[Expédition carlyle]]
+		-
 	-
