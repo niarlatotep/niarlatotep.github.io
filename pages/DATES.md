@@ -1,5 +1,5 @@
 - -3150--2700 ans
-	- 3eme dynastie egyptienne
+	- 3eme dynastie égyptienne
 -
 -
 - [[Feb 22rd, 1925]]
