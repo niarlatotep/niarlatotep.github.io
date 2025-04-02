@@ -13,9 +13,10 @@
 		- Enchanter une lame
 		- Créer une porte
 		- Rituels divers nécessitants des choses étranges ou horrible. Sacrifices animaux
-	- - Manuscrits Panatériques (ou Pnacotiques)
-		- - Poèmes à la gloire de dieux inconnus
-		  - On garde deux bouquins en anglais, Français et un en latin avec 18 parchemins (6 arabes, 4 latins, 2 ancien français, 1 ancien anglais, 4 hiéroglyphe)
+	- Manuscrits Panatériques (ou Pnacotiques)
+	  id:: 67c786e3-fc4c-4f81-a878-d613148e993f
+		- Poèmes à la gloire de dieux inconnus
+	- On garde deux bouquins en anglais, Français et un en latin avec 18 parchemins (6 arabes, 4 latins, 2 ancien français, 1 ancien anglais, 4 hiéroglyphe)
 - Liber Ivonis est le même livre que le livre d'Ivan, c'est une traduction plus récente
 	-
 -
