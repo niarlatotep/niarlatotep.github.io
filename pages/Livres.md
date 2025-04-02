@@ -1,4 +1,4 @@
-# Voir le salon Livres de
+# Voir le salon Livres de Discord
 - Récupérés à NY chez Carlyle
 	-
 -
