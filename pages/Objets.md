@@ -1,13 +1,16 @@
 - Fondation Penhew (Londre, [[Feb 22nd, 1925]] )
   id:: 67ed4c5d-d7f5-4a3e-8fdc-eab467de7c71
 	- Bureaux, bouqins, sièges, CANNE ÉPÉE, poudre, pierre et bocaux d'alchimistes, des ratoins de nouriture et d'eau, des faux passeports.
-	- La collection privée de Gavingan, toutes les oeuvres nous mettent mal à l'aise.
+	  id:: 67ed4c6d-a291-4b3a-90c0-ce8969beabbf
+	-
 	- 3 caisses en bois.
+	  collapsed:: true
 		- Petit coffret décoré
 		- Urne funéraire -> Cendres noires
 		- 2 dague en argent
 	- Petite caisse : Adrdressé à [[M. Randolf]], port Darwin, territoire du nord, Australie
 	  id:: 67c786e3-264f-4ede-b4a1-c3057e09e680
+	  collapsed:: true
 		- Contient une petite statuette d'une 30ene de cm d'une pierre bleu annoté [[Cthulhu]]
 			- Donnée à [[Ali Kafur]]
 	- Grosse caisse : [[Ho Fong Import]] addressé à [[Shangai]] "A l'attention de l'honnorable [[Ho Fong]]"
