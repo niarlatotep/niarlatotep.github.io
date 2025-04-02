@@ -1,4 +1,5 @@
 - Egypte
--
+	- Soirée avec les officiels
+	- Fouille sur la 3êmem
 -
 - Kenya
