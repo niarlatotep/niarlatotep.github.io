@@ -1,0 +1,2 @@
+- Ruine d'un ancien temple
+- Vol de l'objet le plus important :
