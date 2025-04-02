@@ -1,0 +1,4 @@
+- Est-il le pharaon noir ?
+	- Non
+- Pharaon de la sixièle dynastie
+- A recréé le culte du pharaon noir
