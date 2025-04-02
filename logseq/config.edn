@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Objets" "Information" "Livres" "DATES" "liste des personnages"]
+ :favorites ["README" "Objets" "Information" "Livres" "DATES" "liste des personnages"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -419,6 +419,6 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :feature/enable-journals? true
+ :feature/enable-journals? false
  :default-home {:page "liste des personnages"}
  :publishing/all-pages-public? true}
