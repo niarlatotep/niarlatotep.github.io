@@ -17,6 +17,7 @@
 	  id:: 67c786e3-fc4c-4f81-a878-d613148e993f
 		- Poèmes à la gloire de dieux inconnus
 	- On garde deux bouquins en anglais, Français et un en latin avec 18 parchemins (6 arabes, 4 latins, 2 ancien français, 1 ancien anglais, 4 hiéroglyphe)
+	  id:: 67ed4b8a-87ea-405c-9f22-060e62ca1d2d
 - Liber Ivonis est le même livre que le livre d'Ivan, c'est une traduction plus récente
 	-
 -
