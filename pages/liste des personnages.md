@@ -19,6 +19,7 @@
 	- [[Elias Jackson]]
 	- [[Jonah Kensington]]
 	- [[Marc Selkirk & Martin Poole]]
+	- [[Jackson Elias]]
 - Kenya
 	- [[Tribut Kikuyu]]
 	- [[Tribut Nandi]]
