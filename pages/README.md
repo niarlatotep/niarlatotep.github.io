@@ -1,3 +1,5 @@
 - Notes de la campagne les masques de Nyarlatotep
 -
--
+- Informations
+	- Il y a des fautes d'orthographes et j'en suis désolé. Hésitez pas à les signaler pour que je les corriges
+	-
