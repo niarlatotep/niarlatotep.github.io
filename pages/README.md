@@ -3,4 +3,4 @@
 - Informations
 	- Il y a des fautes d'orthographes et j'en suis désolé. Hésitez pas à les signaler pour que je les corriges
 	- Les notes ne commences qu'à partir de la fin du chapitre Londonnien. Je ferais éventuellement un résumé plus tard de nos aventures à New York
-	- Si vous voulez
+	- Si vous voulez participer à la rédaction je peut ouvrir le git
