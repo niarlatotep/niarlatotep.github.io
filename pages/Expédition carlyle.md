@@ -1,5 +1,6 @@
 - Egypte
 	- Soirée avec les officiels
-	- Fouille sur la 3êmem
+	- Fouille sur la 3eme dynastie
+	-
 -
 - Kenya
