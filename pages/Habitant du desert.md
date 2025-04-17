@@ -3,4 +3,5 @@
 - Peau noire
 - Couvert de sable
 - Pas de cheveau
--
+- Nez peu marqué
+- Grandes oreilles
