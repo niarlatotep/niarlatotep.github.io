@@ -1,0 +1,6 @@
+- Des grands yeux
+- 1m de haut
+- Peau noire
+- Couvert de sable
+- Pas de cheveau
+-
