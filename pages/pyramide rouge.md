@@ -7,3 +7,5 @@
 - A l'intérieur
 	- Aucune peinture, ni support de torche
 	- Grandes salles parallélépipédiques et vides
+	- Proche du sommet, une odeur pestilentielle mais probablement non dangereuse
+	-
