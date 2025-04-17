@@ -6,4 +6,4 @@
 -
 - A l'intérieur
 	- Aucune peinture, ni support de torche
-	-
+	- Grandes salles parallélépipédiques et vides
