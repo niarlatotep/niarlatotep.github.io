@@ -8,4 +8,5 @@
 	- Aucune peinture, ni support de torche
 	- Grandes salles parallélépipédiques et vides
 	- Proche du sommet, une odeur pestilentielle mais probablement non dangereuse
-	- Dans la
+	- Dans la salle du sommet, les hiéroglyphe converge vers un point mais la pièce centrale est manquante
+	-
