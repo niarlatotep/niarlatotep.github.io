@@ -1,7 +1,13 @@
 # Voir le salon Livres de Discord
+-
+-
+- Voir Discord
+-
+-
+-
 - Récupérés à NY chez Carlyle
 	-
--
+- Voir discord
 - Récupérés à la [[Fondation Penhew]]
 	- Petit mémoire sur la traduction de poterie
 	- Livre de Diane (Autheur et traducteur inconnus)
