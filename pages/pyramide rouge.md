@@ -4,4 +4,6 @@
 - Construite avec du calcaire rosé
 - Le guide nous montre l'entrée mais s'oppose à notre entrée
 -
--
+- A l'intérieur
+	- Aucune peinture, ni support de torche
+	-
