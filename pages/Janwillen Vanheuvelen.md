@@ -7,7 +7,7 @@
 		- Ecrit son livre pour traduire ces parchemins
 	- LES CHATS SUIVENT LES PARCHEMINS ? Ou il a fait un rite
 	- Rites sur [[Bast]] et [[Apeth]]
-	- XIIIeme dynastie, Auteur : Luvet Kerast
+	- XIIIeme dynastie, Auteur : Luvet Kerast - Grand pretre de Bastr
 -
 - La momie de [[Nitocris]] d'après les papyrus est celle qui a disparue
 	- [[Clives]] a tout fait pour cacher/Etouffer l'affaire
