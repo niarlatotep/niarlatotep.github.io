@@ -1,3 +1,3 @@
-- J'ai suivi un cours d'utilisation de l'appareil photo de [[Elias Jackson]]
+-
 -
 -

@@ -1,1 +1,3 @@
 - Salle secrète de la [[pyramide inclinée]] (sanctuaire du [[Pharaon Noir]] )
+- J'ai suivi un cours d'utilisation de l'appareil photo de [[Elias Jackson]] le [[Mar 6th, 1925]]
+- [[les photos]]

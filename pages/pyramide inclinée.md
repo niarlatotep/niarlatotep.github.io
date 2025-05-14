@@ -17,6 +17,7 @@
 			- A gauche, deux autres bas reliefs qui représentent une carte du ciel
 				- Dur sans étude de déterminer la raison de ce ciels dessinné
 			- Sur le mur de droite, une carte de l'eurasie, de l'afrique et de l'Australie, très bien dessinnée
+				-
 				- Trois rubis polis sertis dans le bas relief, un en Australie, un en mer de Chine et un en Afrique de l'est
 				- Bande plus sombre qui fait un arc de cercle au dessus de l'océan indien
 			- [[Photos]] prisent de la salle
