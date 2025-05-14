@@ -1,2 +1,5 @@
 - Une reine de la 6eme dynastie qui se serait alliée à un culte du pharaon noir pour obtenir des pouvoirs
 -
+- Une prophetie indique qu'elle retrouvera ses pouvoir grace à sa [[ceinture de la reine Nitocris]]
+-
+-
