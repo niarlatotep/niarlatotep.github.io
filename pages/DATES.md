@@ -13,8 +13,8 @@
 - [[Mar 3rd, 1925]]
 - [[Mar 4rd, 1925]]
 - [[Mar 5th, 1925]]
-- [[Mar 6th, 1925]]
-- [[Mer 6th, 1925]] - Aujourd'hui
+- [[Mar 6th, 1925]] - Aujourd'hui
+-
 -
 -
 -
