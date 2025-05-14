@@ -1,4 +1,4 @@
 - La ceinture de la reine [[Nitocris]]
--
+- Bande de mayons d'or tissés entre eux avec une boucle sur laquelle figure un gros
 -
 -
